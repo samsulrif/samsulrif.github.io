@@ -452,6 +452,8 @@ header.desktop-header-1 .vertical-menu {
   padding: 0;
   margin-bottom: 130px;
   margin-top: 130px;
+  position: fixed;
+  /*POSISITION BERUBAH/HAPUS */
 }
 header.desktop-header-1 .vertical-menu li.openmenu > a {
   color: #000;
