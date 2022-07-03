@@ -21968,7 +21968,7 @@ Webflow.require('ix2').init({
                             "selector": ".ticker-holder",
                             "selectorGuids": ["7029dbcf-3bce-ad61-17ef-a11a5ab47f7c"]
                         },
-                        "xValue": -16.6666666667,
+                        "xValue": 0,
                         "xUnit": "%",
                         "yUnit": "PX",
                         "zUnit": "PX"
